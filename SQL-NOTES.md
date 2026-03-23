@@ -39,4 +39,12 @@ CONSTRAINTS:
 
 
 KEYS:
-PRIMARY KEY  
+PRIMARY KEY :
+
+<img width="1036" height="445" alt="image" src="https://github.com/user-attachments/assets/4787ead2-da9c-49e7-a8d1-874611dfcbfb" />
+<img width="1064" height="818" alt="image" src="https://github.com/user-attachments/assets/0b801543-44ee-4711-b430-502713487dcf" />
+
+TYPES: Simple and composite
+<img width="896" height="566" alt="image" src="https://github.com/user-attachments/assets/0d05af8c-b857-489d-8e19-092ebfc718fe" />
+
+
